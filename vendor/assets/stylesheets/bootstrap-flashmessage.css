@@ -1,0 +1,7 @@
+.flash {
+  width: 250px;
+  position: fixed;
+  left: 50%;
+  top: 50px;
+  margin-left: -125px;
+}
